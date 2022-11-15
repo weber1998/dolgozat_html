@@ -1,0 +1,18 @@
+div {
+    display: grid;
+    column-gap: 20px;
+    row-gap: 20px;
+    grid-template-columns: auto;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        text-align: center;
+        color: dimgray;
+        font-size: 90%;
+    }
+}
+
+main {
+    background-color: azure;
+}

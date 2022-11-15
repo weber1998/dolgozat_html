@@ -1,0 +1,22 @@
+{
+    "auto":[
+    {
+        "ID":1,
+        "marka":"Seat",
+        "tipus":"Cordoba",
+        "szin":"fekete"
+    },
+    {
+        "ID":2,
+        "marka":"Seat",
+        "tipus":"Ibiza",
+        "szin":"fehér"
+    },
+    {
+        "ID":3,
+        "marka":"Skoda",
+        "tipus":"Fabia",
+        "szin":"piros"
+    }
+    ]
+}
